@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Dagger-Demo"
 include(":app")
- 
+include(":dagger")
+include(":dagger-compiler")
