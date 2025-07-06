@@ -1,6 +1,6 @@
-package me.amitshekhar.example.written.provider
+package com.nirali.dagger_demo.written.provider
 
-import me.amitshekhar.example.data.DatabaseService
+import com.nirali.dagger_demo.data.DatabaseService
 
 class DatabaseServiceProvider {
 

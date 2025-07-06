@@ -1,6 +1,7 @@
 package com.nirali.dagger_demo.written
 
-import me.amitshekhar.example.written.provider.DatabaseServiceProvider
+import com.nirali.dagger_demo.MyApplication
+import com.nirali.dagger_demo.written.provider.DatabaseServiceProvider
 import com.nirali.dagger_demo.written.provider.NetworkServiceProvider
 
 class MyApplicationComponent {
